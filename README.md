@@ -1,1 +1,2 @@
 # deep_learning_study
+主要是做一下吴恩达老师hehe的作业，学学深度学习
